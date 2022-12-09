@@ -1,6 +1,6 @@
 import logging
 
-TENANT_ID = 'xxxxx'
+TENANT_ID = 'xxxxxxxxx'
 CLIENT_ID = 'xxxxx'
 CLIENT_SECRET = 'xxxxx'
 
